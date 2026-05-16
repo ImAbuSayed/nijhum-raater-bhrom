@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nijhum Raater Bhrom
+
+This log tracks the cryptographic history and versioning for the song **Nijhum Raater Bhrom** (nijhum-raater-bhrom).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T06:24:17.996474 | `v1` | `adad4c75dac981495157061e56f8cc662eb08369fb7f35050c94e67852bdae2a` | `f95554c19522f127e9d3349508afca988f70a82e0c9ecb601a92c5f1c7e04c25` | `2026-05-16_nijhum-raater-bhrom-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
