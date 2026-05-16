@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nijhum-raater-bhrom/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Nijhum Raater Bhrom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nijhum-raater-bhrom/) |
+| **Get License** | [Request Licensing for Nijhum Raater Bhrom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nijhum-raater-bhrom/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিঝুম রাতের এই ভ্রমেতে তোমার উষ্ণ শ্বাস
+> বুকের ভেতর জমছে আমার প্রেমেরই পিয়াস
+> তোমার চোখের ওই নেশাতে ভাসতে চাই যে আমি
+> আমার এই পৃথিবীতে তুমি ভীষণ দামি
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
